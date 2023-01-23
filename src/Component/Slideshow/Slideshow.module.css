@@ -1,0 +1,95 @@
+
+
+.img3{
+    position: relative;
+    height: 60%;
+    width: 90%;
+    left: 80px;
+    top: 1px;
+    
+}
+.icons{
+    position: relative;
+    top: -180px;
+    left: 92%;
+   
+}
+.icons1{
+    position: relative;
+    top: -180px;
+    left: 8%;
+}
+.img{
+    width: 28%;
+    height: 28%;
+    border-radius: 20px;
+    position: relative;
+    top: 50px;
+    left: 80px;
+ }
+ 
+ .link{
+     text-decoration: none;
+     font-size: 30px;
+     color: black;
+     position: relative;
+     
+ }
+ 
+ .tit{
+     position: relative;
+     left: 100px;
+     bottom: 200px;
+     font-weight: 400;
+     color: #282828;
+ }
+ .img1{
+    width: 28%;
+    height: 28%;
+    border-radius: 20px;
+    position: relative;
+    bottom: 365px;
+    left: 550px;
+ }
+ 
+ .link1{
+     text-decoration: none;
+     font-size: 30px;
+     color: black;
+     position: relative;
+     
+ }
+ 
+ .tit1{
+     position: relative;
+     left: 39%;
+     bottom: 620px;
+     font-weight: 400;
+     color: #282828;
+ }
+ .img2{
+    width: 28%;
+    height: 28%;
+    border-radius: 20px;
+    position: relative;
+    bottom: 780px;
+    left: 1022px;
+ }
+ 
+ .link2{
+     text-decoration: none;
+     font-size: 30px;
+     color: black;
+     position: relative;
+     
+ }
+ 
+ .tit2{
+     position: relative;
+     left: 70%;
+     bottom: 1030px;
+     font-weight: 400;
+     color: #282828;
+ }
+ 
+ 

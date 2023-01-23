@@ -1,0 +1,102 @@
+
+.entry{
+    position: relative;
+    left: 50px;
+}
+.email{
+    position: relative;
+    font-weight: 500;
+    left: 50px;
+    color: black;
+}
+.input{
+    position: relative;
+    left: 200px;
+    bottom: 50px;
+    width: 35%;
+    height: 44px;
+    padding: 10px 15px 10px;
+    color: #333;
+    font-weight: normal;
+    border: 1px solid #e3e3e3;
+    box-sizing: border-box;
+    border-radius: 4px;
+    outline: none;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    resize: none;
+}
+.password{
+    position: relative;
+    font-weight: 500;
+    left: 50px;
+    bottom: 50px;
+    color: black;
+}
+.input1{
+    position: relative;
+    left: 200px;
+    bottom: 100px;
+    width: 35%;
+    height: 44px;
+    padding: 10px 15px 10px;
+    color: #333;
+    font-weight: normal;
+    border: 1px solid #e3e3e3;
+    box-sizing: border-box;
+    border-radius: 4px;
+    outline: none;
+    font-size: 14px;
+    line-height: 20px;
+    font-weight: 400;
+    resize: none;
+}
+.a{
+    position: relative;
+    text-decoration: none;
+    left: 200px;
+    bottom: 100px;
+    color: #205da7;
+    text-decoration: none;
+    transition: color .15s;
+    transition-property: color;
+    transition-duration: 0.15s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+
+}
+.button{
+    position: relative;
+    cursor: pointer;
+    width: 50px;
+    left: 40px;
+    color: #fff;
+    background-color: #205da7;
+    border-color: #205da7;
+   border-radius: 5px;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 15px;
+    margin-bottom: 0;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -ms-touch-action: manipulation;
+    touch-action: manipulation;
+}
+.href{
+    position: relative;
+    left: 50px;
+    color: #205da7;
+    text-decoration: none;
+    transition: color .15s;
+    transition-property: color;
+    transition-duration: 0.15s;
+    transition-timing-function: ease;
+    transition-delay: 0s;
+}

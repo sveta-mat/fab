@@ -1,0 +1,156 @@
+.icon{
+    position: relative;
+    transition: color .15s ease-out;
+    text-decoration: none;
+    color: #000;
+    left: 50px;
+  
+}
+
+.title{
+    position: relative;
+    left: 50px;
+top: 20px;
+    margin: 0 0 24px;
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 600;
+    color: #000;
+}
+
+.tit{
+    position: relative;
+    left: 83px;
+    bottom: 45px;
+    font-weight: 500;
+    
+}
+.img{
+    position: relative;
+    left: 300px;
+    bottom: 80px;
+}
+.t{
+    
+    background-color:#f1f6f7;
+    border-radius: 20px ;
+    padding: 25px 110px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    left: 299px;
+    bottom: 60px;
+}
+.ti{
+    background-color:#f1f6f7;
+    border-radius: 20px ;
+    padding: 25px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    left: 328px;
+    bottom: 60px;
+}
+.ti1{
+    background-color:#f1f6f7;
+    border-radius: 20px ;
+    padding: 25px 100px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    left: 353px;
+    bottom: 60px;
+}
+.ti2{
+    background-color:#f1f6f7;
+    border-radius: 20px ;
+    padding: 25px 120px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    position: relative;
+    left: 380px;
+    bottom: 60px;
+}
+.t1{
+    position: relative;
+    right: 95px;
+    font-size: 16px;
+    bottom: 10px;
+    color:black;
+    font-weight: 500;
+    
+}
+.nam{
+    position: relative;
+    left: 96px;
+    bottom: 25px;
+    font-size: 13px;
+    color: #000;
+    transition: all .15s ease 0s;
+    line-height: 11px;
+    text-align: center;
+    border-radius: 4px;
+   
+}
+.t2{
+    position: relative;
+    right: 95px;
+    font-size: 16px;
+    bottom: 10px;
+    color:black;
+    font-weight: 500;
+}
+.nam2{
+    position: relative;
+    left: 96px;
+    bottom: 25px;
+    font-size: 13px;
+    color: #000;
+    transition: all .15s ease 0s;
+    line-height: 11px;
+    text-align: center;
+    border-radius: 4px;
+}
+.t3{
+    position: relative;
+    right: 95px;
+    font-size: 16px;
+    bottom: 10px;
+    color:black;
+    font-weight: 500;
+}
+.nam3{
+    position: relative;
+    left: 96px;
+    bottom: 25px;
+    font-size: 13px;
+    color: #000;
+    transition: all .15s ease 0s;
+    line-height: 11px;
+    text-align: center;
+    border-radius: 4px;
+}
+.t4{
+    position: relative;
+    right: 95px;
+    font-size: 16px;
+    bottom: 10px;
+    color:black;
+    font-weight: 500;
+
+}
+.nam4{
+    position: relative;
+    left: 96px;
+    bottom: 25px;
+    font-size: 13px;
+    color: #000;
+    transition: all .15s ease 0s;
+    line-height: 11px;
+    text-align: center;
+    border-radius: 4px;
+}

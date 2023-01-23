@@ -1,0 +1,44 @@
+
+
+.App{
+ 
+}
+
+.navbar{
+
+  height: 70px;
+  width: 100%;
+ display: flex;
+  background-color: #ffffff;
+  border: 1px solid rgb(167, 164, 164);
+  
+}
+.titleFa{
+
+    color: #205da7;
+    font-size: 30px ;
+   font-weight: 300;
+   margin: 10px;
+   
+   margin-left: 20px;
+    font-weight: bold;
+}
+
+
+
+.burger-menu{
+  
+  
+
+  width: 40px;
+  margin-left: 60px;
+  margin-top: 10px;
+  height: 40px;
+  cursor: pointer;
+  color: #205da7;
+ 
+  
+}
+
+
+

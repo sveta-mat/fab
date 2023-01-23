@@ -1,0 +1,141 @@
+*{
+  z-index: 0;
+}
+
+
+.icon1{
+    position: relative;
+    left: 50px;
+    top: 10px;
+    color: gray;
+
+}
+.filtertit{
+    position: relative;
+    font-size: 20px;
+    color: #000000;
+    font-weight: 400;
+    left: 10px;
+}
+.prise1{
+    font-size: 15px;
+    font-weight: 500;
+    position: relative;
+    top: 40px;
+    right: 30px;
+}
+.input{
+   height: 28px;
+   width: 55px;
+   position: relative;
+   left: 45px;
+   top: 60px;
+   font-size: 15px;
+   color: rgb(147, 143, 143);
+   border: 1px solid #eee;
+   border-radius: 4px;
+   outline: none;
+   
+}
+.input1{
+    height: 28px;
+    width: 55px;
+    font-size: 15px;
+    position: relative;
+    left: 45px;
+    top: 60px;
+    color: rgb(147, 143, 143);
+    border: 1px solid #eee;
+    border-radius: 4px;
+    outline: none;
+}
+.pr{
+    
+    position: relative;
+    top: 60px;
+    left: 45px;
+    border-radius: 0;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #ECEEF2;
+    width: 1%;
+    white-space: nowrap;
+    vertical-align: middle;
+}
+.amd{
+    position: relative;
+    left:48px;
+    top: 50px;
+}
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button
+ {
+  -webkit-appearance: none;
+  margin: 0;
+  -webkit-tap-highlight-color: rgba(0,0,0,0);
+}
+
+/* Firefox */
+input[type=number]
+
+ {
+  -moz-appearance: textfield;
+}
+.g{
+    position: relative;
+    top: 60px;
+    left: 45px;
+    border-radius: 0;
+    padding: 6px 12px;
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 1;
+    color: #555;
+    text-align: center;
+    background-color: #ECEEF2;
+    width: 1%;
+    /* white-space: nowrap;
+    vertical-align: middle; */
+    
+}
+
+
+  .slider{
+    width: 195px;
+    position: relative;
+    left: 46px;
+    top: 90px;
+  }
+  .track {
+    position: relative;
+    left: 50px;
+    background-color: whitesmoke;
+    height: 5px;
+    
+    border-radius: 5px;
+  }
+  .track:nth-child(2) {
+    background-color:  #205da7;
+    
+    
+  }
+   .thumb { 
+    width: 15px;
+    height: 15px;
+    background-color: #205da7;
+    border: 3px solid whitesmoke;
+    border-radius: 50%; 
+    
+    top: -7px;
+  }  
+ 
+.check{
+  position: relative;
+  left: 100px;
+  background: #000000;
+}

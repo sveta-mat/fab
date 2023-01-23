@@ -1,0 +1,112 @@
+.header{
+    margin-left: 290px;
+    margin-top: 10px;
+    padding: auto;
+    display: flex;
+
+}
+
+.like{
+    text-decoration: none;
+    position: relative;
+    display: table-cell;
+    margin: 100px;
+    vertical-align: middle;
+    text-align: center;
+    
+}
+.iconBox{
+    position: relative;
+    width: 21px;
+    height: 21px;
+    display: inline-flex;
+    vertical-align: middle;
+}
+.icon{
+    
+    display: inline-flex;
+    vertical-align: middle;
+    font-size: 20px;
+    color: #000;
+}
+.name{
+    color: #666;
+    padding-top: 7px;
+    line-height: normal;
+    transition: all .1s;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: .8px;
+}
+
+
+.regist{
+    position: relative;
+    display: table-cell;
+
+    vertical-align: middle;
+    text-align: center;
+    
+    padding:0 20px;
+}
+.iconBox1{
+    position: relative;
+    width: 21px;
+    height: 21px;
+    display: inline-flex;
+    vertical-align: middle;
+}
+.icon1{
+    display: inline-flex;
+    vertical-align: middle;
+    font-size: 20px;
+    color: #000;
+    
+}
+.title{
+    color: #666;
+    padding-top: 7px;
+    line-height: normal;
+    transition: all .1s;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: .8px;
+
+}
+
+.box{
+    position: relative;
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    padding: 0 10px;
+
+}
+   .cartBox{
+    position: relative;
+    width: 21px;
+    height: 21px;
+    display: inline-flex;
+    vertical-align: middle;
+   
+
+   }
+   .ic{
+    
+    display: inline-flex;
+    
+    vertical-align: middle;
+    font-size: 20px;
+    color: #000;
+
+   }
+   .ti{
+    color: #666;
+    padding-top: 7px;
+    line-height: normal;
+    transition: all .1s;
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: .8px;
+   }
+

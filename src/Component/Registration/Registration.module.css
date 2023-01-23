@@ -1,0 +1,23 @@
+.icon{
+ position: relative;
+  transition: color .15s ease-out;
+  text-decoration: none;
+  color: #000;
+  left: 50px;
+
+  
+}
+.logout button{
+  width: 20px;
+  height: 20px;
+  background-color: #000;
+}
+.btnwelcome{
+  width: 100px;
+  height: 20px;
+  position: relative;
+  left: 100px;
+  background-color: aqua;
+  cursor: pointer;
+}
+

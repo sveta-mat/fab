@@ -1,0 +1,284 @@
+*{
+    text-decoration: none;
+}
+.flex{
+    display: flex;
+   flex-wrap: wrap;
+
+   
+    
+    
+}
+.flexChild{
+    
+    width: 20%;
+   position: relative;
+   top: 40px;
+   left: 290px;
+    height: 400px;
+    border: 1px solid rgb(185, 185, 184);
+    
+}
+.blues a{
+   
+    color: black;
+  text-decoration: none;
+    transition: color .15s;
+    background-color: transparent;
+}
+
+.img{
+    width: 200px;
+    position: absolute;
+    left: 15%;
+    top: 20px;
+   
+}
+
+.title{
+    position: absolute;
+    top: 220px;
+    left: 40px;
+    font-size: 15px;
+    font-weight: 500;
+    color: black;
+    
+    
+}
+.prise{
+    position: absolute;
+    font-size: 19px;
+    font-weight: 500;
+    top: 250px;
+    right: 190px;
+    color: black;
+    
+}
+.button-1{
+    
+    width: 120px;
+    height: 40px;
+    cursor: pointer;
+    position: relative;
+    color: #fff;
+    background-color: #205da7;
+    border-color: #205da7;
+    font-size: 14px;
+   border-radius: 5px;
+   left: 35px;
+   top: 290px;
+}
+.button-1:hover{
+    background-color: #416ea5;
+  }
+.icons{
+    font-size: 19px;
+}
+
+.delete{
+    position: relative;
+    width: 20px;
+    font-size: 18px;
+   top: 10px;
+   left: 10px;
+   color: red;
+   cursor: pointer;
+}
+
+.delete:hover{
+    background-color: gainsboro;
+    color: #205da7;
+}
+.blues span{
+    text-decoration: none;
+}
+.btnClass{
+    color: #cdd0dc;
+}
+
+.btnClass.clicked{
+    color: rgb(229, 50, 113);
+}
+.shotchik{
+   
+    position: relative;
+ border: 1px solid gainsboro;
+ border-radius: 5%;
+ width: 100px;
+ height: 40px;
+ left: 40px;
+ top: 280px;
+}
+.minus{
+    height: 5px;
+    width: 5px;
+    position: absolute;
+   text-decoration: none;
+   background: #fff;
+   font-size: 14px;
+    padding: 8px 12px;
+    line-height: normal;
+    user-select: none;
+    border: 0;
+   cursor: pointer;
+   left: 5px;
+   top: 5px;
+    
+}
+.plus{
+    height: 5px;
+    width: 5px;
+    position: absolute;
+    text-decoration: none;
+    background: #fff;
+    font-size: 14px;
+     padding: 8px 12px;
+     line-height: normal;
+     user-select: none;
+     border: 0;
+    cursor: pointer;
+    left: 65px;
+   top: 5px;
+}
+.input-counter{
+    height: 10px;
+    width: 20px;
+    position: absolute;
+    text-decoration: none;
+    background: #fff;
+    font-size: 14px;
+     padding: 8px 12px;
+     line-height: normal;
+     user-select: none;
+     border: 0;
+     left: 30px;
+     outline: none;
+   top: 5px;
+}
+.filter-blues{
+    position: relative;
+    left: 40px;
+top: 20px;
+    margin: 0 0 24px;
+    font-size: 30px;
+    line-height: 40px;
+    font-weight: 600;
+    color: #000;
+}
+.icon-blues{
+    position: relative;
+    transition: color .15s ease-out;
+    text-decoration: none;
+    color: #000;
+    left: 50px;
+}
+
+button{
+    width: 20px;
+    height: 20px;
+    background-color: #000;
+    position: relative;
+    right: 200px
+}
+.blues{
+    position: relative;
+    top: 80px;
+    right: 50%;
+}
+.pogination-catalog{
+    display: flex;
+   
+}
+.catalog ul{
+    display: flex;
+    
+    text-align: center;
+    
+   
+  
+}
+
+.catalog ul li{
+    position: relative;
+    left: 350%;
+    top: 50px;
+    border: 1px solid gray;
+    border-radius: 5%;
+    height: 30px;
+    cursor: pointer;
+font-weight: 500;
+    list-style: none;
+    background: rgb(255, 253, 253);
+    padding: 2px;
+}
+.catalog ul li:hover{
+    background: rgb(237, 233, 233);;
+}
+
+.btnPaginate2{
+    width: 30px;
+}
+.btnPaginate2.active{
+    background: rgb(49, 48, 48);
+    color: white
+}
+
+.home1{
+    display: flex
+    
+   
+}
+.homeIcon{
+color: #000;
+
+margin-left: 50px;
+font-size: 13px;
+    
+}
+.headerha{
+    display: inline-block;
+   
+    width: 20px;
+    margin:  2px;
+  
+   cursor: pointer;
+  
+
+    
+}
+.headerha span{
+    display: block;
+  width: 100px;
+  height: 25px;
+    border-radius: 2px;
+    position: absolute;
+    text-align: center;
+    background: rgb(49, 48, 48);
+    padding: 9px 0;
+    top: -48px;
+    right: 236px;
+    color: white;
+    opacity: 0;
+    transition: .3s opacity ease-in;
+    font-size: 15px;
+}
+span
+
+.headerha span::before{
+    content: "";
+    position: absolute;
+    text-align: center;
+    height: 15px;
+    width: 15px;
+    left: 44px;
+    background: rgb(49, 48, 48);
+    z-index: -1;
+    top: 30px;
+    transform: translateX(-50%) rotate(45deg);
+}
+.headerha:hover>span{
+    opacity: 1;
+    
+}
+
+  
